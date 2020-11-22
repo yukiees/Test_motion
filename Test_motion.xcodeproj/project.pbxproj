@@ -101,8 +101,8 @@
 			children = (
 				9C1F9B89256A7329006771A0 /* AppDelegate.swift */,
 				9C1F9B8B256A7329006771A0 /* SceneDelegate.swift */,
-				9C1F9B8D256A7329006771A0 /* ViewController.swift */,
 				9C1F9B8F256A7329006771A0 /* Main.storyboard */,
+				9C1F9B8D256A7329006771A0 /* ViewController.swift */,
 				9C1F9B92256A732E006771A0 /* Assets.xcassets */,
 				9C1F9B94256A732E006771A0 /* LaunchScreen.storyboard */,
 				9C1F9B97256A732E006771A0 /* Info.plist */,
@@ -439,6 +439,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 83B85M254B;
 				INFOPLIST_FILE = Test_motion/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -458,6 +459,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 83B85M254B;
 				INFOPLIST_FILE = Test_motion/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
